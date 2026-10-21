@@ -1,0 +1,15 @@
+C:\Users\ga787\source\repos\SimuladorDeLojaSimples\SimuladorDeLojaSimples\obj\Debug\net10.0\SimuladorDeLojaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ga787\source\repos\SimuladorDeLojaSimples\SimuladorDeLojaSimples\obj\Debug\net10.0\SimuladorDeLojaSimples.AssemblyInfoInputs.cache
+C:\Users\ga787\source\repos\SimuladorDeLojaSimples\SimuladorDeLojaSimples\obj\Debug\net10.0\SimuladorDeLojaSimples.AssemblyInfo.cs
+C:\Users\ga787\source\repos\SimuladorDeLojaSimples\SimuladorDeLojaSimples\obj\Debug\net10.0\SimuladorDeLojaSimples.csproj.CoreCompileInputs.cache
+C:\Users\ga787\source\repos\SimuladorDeLojaSimples\SimuladorDeLojaSimples\bin\Debug\net10.0\SimuladorDeLojaSimples.exe
+C:\Users\ga787\source\repos\SimuladorDeLojaSimples\SimuladorDeLojaSimples\bin\Debug\net10.0\SimuladorDeLojaSimples.deps.json
+C:\Users\ga787\source\repos\SimuladorDeLojaSimples\SimuladorDeLojaSimples\bin\Debug\net10.0\SimuladorDeLojaSimples.runtimeconfig.json
+C:\Users\ga787\source\repos\SimuladorDeLojaSimples\SimuladorDeLojaSimples\bin\Debug\net10.0\SimuladorDeLojaSimples.dll
+C:\Users\ga787\source\repos\SimuladorDeLojaSimples\SimuladorDeLojaSimples\bin\Debug\net10.0\SimuladorDeLojaSimples.pdb
+C:\Users\ga787\source\repos\SimuladorDeLojaSimples\SimuladorDeLojaSimples\obj\Debug\net10.0\SimuladorDeLojaSimples.dll
+C:\Users\ga787\source\repos\SimuladorDeLojaSimples\SimuladorDeLojaSimples\obj\Debug\net10.0\refint\SimuladorDeLojaSimples.dll
+C:\Users\ga787\source\repos\SimuladorDeLojaSimples\SimuladorDeLojaSimples\obj\Debug\net10.0\SimuladorDeLojaSimples.pdb
+C:\Users\ga787\source\repos\SimuladorDeLojaSimples\SimuladorDeLojaSimples\obj\Debug\net10.0\SimuladorDeLojaSimples.genruntimeconfig.cache
+C:\Users\ga787\source\repos\SimuladorDeLojaSimples\SimuladorDeLojaSimples\obj\Debug\net10.0\ref\SimuladorDeLojaSimples.dll
+C:\Users\ga787\source\repos\SimuladorDeLojaSimples\SimuladorDeLojaSimples\obj\Debug\net10.0\Simulado.E8710EFE.Up2Date
